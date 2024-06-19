@@ -5,7 +5,7 @@
 
 💻Graduando em Sistemas de Informação - Universidade Federal de Goiás
           
-⚡Técnico em Eletrônica pelo Instituto Federal de Goiás
+⚡Técnico em Eletrônica - Instituto Federal de Goiás
 
 <br><br>
 
