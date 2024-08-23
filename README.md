@@ -11,7 +11,7 @@
 
 <h2>Skills🚀</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,javascript,typescript,nodejs,python,c,cpp,html,css,tailwind,git,github,express,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,nodejs,python,cpp,html,css,tailwind,git,github,express,mysql)](https://skillicons.dev)
 
 <br></br>
 
