@@ -9,7 +9,6 @@
 
 <br><br>
 
-<h2>Skills🚀</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,nodejs,python,tensorflow,tailwind,git,express,postgres)](https://skillicons.dev)
 
