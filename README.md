@@ -10,7 +10,7 @@
 <br><br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=go,react,typescript,nodejs,aws,python,tensorflow,tailwind,git,express,postgres,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,nodejs,aws,python,tensorflow,tailwind,git,express,postgres,docker,postman)](https://skillicons.dev)
 
 
 
