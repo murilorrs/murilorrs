@@ -7,7 +7,7 @@
           
 ⚡Técnico em Eletrônica - Instituto Federal de Goiás
 
-<br><br>
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=golang,react,typescript,nodejs,aws,python,tensorflow,tailwind,git,express,postgres,docker,postman)](https://skillicons.dev)
